@@ -1,0 +1,13 @@
+body {
+  background-color: powderblue;
+}
+h1 {
+  background-color: #D0E4F5;
+background-image: url("load.jpeg");
+background-repeat: no-repeat;
+background-attachment: scroll;
+background-position: 50% 50%;
+}
+p {
+  color: red;
+}
